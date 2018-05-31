@@ -1,3 +1,5 @@
+#twitter sentiment analyser
+
 import tweepy
 from textblob import TextBlob
 
